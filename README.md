@@ -34,6 +34,7 @@ Understand the steps in learning AI and what the interest group will be doing in
 - [Video - Machine Learning Explained in 100 Seconds](https://www.youtube.com/watch?v=PeMlggyqz0Y&pp=ygUcZmlyZXNoaXAgbnVtcHkgaW4gMTAwc2Vjb25kcw%3D%3D&ab_channel=Fireship)
 - [Video - Introduction to Machine Learning](https://www.youtube.com/watch?v=FIpbrnbVfJk&ab_channel=TechWithTim)
 
+![ML Meme 2](https://github.com/AaronGWang/AI-Group-Preperation/assets/145851064/3b455305-09d0-4911-ad0b-42d7caec03ed)
 
 ## Code Libraries for AI and Machine Learning
 Overview of the libraries that help code AI and Machine Learning. *(maybe important for application)*
