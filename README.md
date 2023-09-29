@@ -1,5 +1,5 @@
 # AI Group Preperation
-Here you will find information regarding application and information to aid you in completing the creative projects.
+Here you will find information regarding the application and information to aid you in completing the creative projects.
 
 ***NOTE: This page does not include specific information about what the application is, instead it is used to prepare you for the application as a reward for joining the group early.***
 
