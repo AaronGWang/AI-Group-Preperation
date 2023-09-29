@@ -9,6 +9,7 @@ Most resources in this page is video, viewers are recommended to work through al
 
 We do not recommend viewers to continue past this pathway too much, as there will be more learning and resources planned for the future.
 
+![ML Meme 1](https://github.com/AaronGWang/AI-Group-Preperation/assets/145851064/d762253a-1001-4aab-b886-f1e55b3ec8f5)
 
 ## Introduction to AI and Machine Learning
 Learn basic information about what AI is, and why it is important to dive into this field **NOW**.
