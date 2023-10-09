@@ -5,7 +5,7 @@ Here you will find information regarding the application and information to aid 
 
 
 ## Agenda
-Most resources in this page are videos, viewers are recommended to work through all provided resources on this page before the official publication of applications (November 15th). 
+Most resources in this page are videos, viewers are recommended to work through all provided resources on this page before the official publication of applications (October 15th). 
 
 We do not recommend viewers to continue past this pathway too much, as there will be more learning and resources planned for the future.
 
